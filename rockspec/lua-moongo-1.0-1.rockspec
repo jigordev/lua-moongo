@@ -2,7 +2,7 @@ package = "lua-moongo"
 version = "1.0-1"
 source = {
    url = "git://github.com/jigordev/lua-moongo.git",
-   branch = "master"
+   branch = "main"
 }
 description = {
    summary = "Moongo is an Object-Document Mapper for working with MongoDB in Lua.",
